@@ -1,28 +1,5 @@
 holbertonschool-chatgpt-introduction
-│
-├── debugging
-│   ├── factorial.py
-│   ├── print_arguments.py
-│   ├── change_background.html
-│   ├── mines.py
-│
-├── documentation
-│   └── factorial_recursive.py
-│
-├── error_handling
-│   └── checkbook.py
-│
-├── games
-│   └── tic.py
-│
-└── README.md
-✅ Final README.md (Complete — One Copy–Paste Block)
-Here is your full README that matches exactly ALL tasks you completed.
 
-Copy and paste into README.md (replace everything).
-
-yaml
-Copy code
 # ChatGPT Introduction — Debugging & Automation Project
 
 This repository contains multiple debugging, documentation, and error-handling tasks  
@@ -128,5 +105,5 @@ holbertonschool-chatgpt-introduction
 
 ## Author
 Holberton School — ChatGPT Assisted Project  
-Student: <Ahmed Khaled>
+Student: Ahmed Khaled
 
